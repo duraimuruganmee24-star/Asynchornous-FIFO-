@@ -1,23 +1,5 @@
 timescale 1ns / 1ps
-//////////////////////////////////////////////////////////////////////////////////
-// Company:
-// Engineer:
-//
-// Create Date: 09.01.2026 10:12:34
-// Design Name:
-// Module Name: asyncfifo
-// Project Name:
-// Target Devices:
-// Tool Versions:
-// Description:
-//
-// Dependencies:
-//
-// Revision:
-// Revision 0.02 - Latched overflow and underflow
-// Additional Comments:
-//
-//////////////////////////////////////////////////////////////////////////////////
+
 
 module asyncfifo #(
     parameter DATA_WIDTH = 8,
